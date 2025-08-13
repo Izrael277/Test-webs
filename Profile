@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+<link rel="stylesheet" href="learn.css">
+
+</head>
+<body>
+    
+    <div class="rol">
+
+        
+ <img src="Pic/PROFILE.png">
+
+
+<h1>  IZZY  </h1>
+
+<h2> About  </h2>
+<hr>
+<p> i'm Izzy, a highly active Comunity Manager, Chat Moderaator, and a Web2 Chatter <br> With a proven track record in helping
+    blockchain and Defi projects grow through <br> strategic engagement, fast-paced support, and authentic conversations. <br>
+    With 5-10 hours of dedicated daily availability and deep involvement in the Web 3 ecosytem, <br> especially across
+    Africa's emerging crypto space,<br> i specialize in scaling communities, boosting user retention, and driving real-time <br> 
+    engagement across platforms like Telegram, Discord and X (Twitter).</p>
+
+<hr>
+
+
+<h2> <u> Roles and Expertise  </u> </h2>
+
+<p>
+
+    <div class="abo">
+
+    <strong> <ul> Community Managment </strong> </ul>  </div>
+    Actively moderates and nurtures online communities across platforms such as X (Twitter), Telegram, and Discord.
+    <br>  I forster user engagement, support project onboarding, and maintain healthy community ecosytem.
+    </p>
+
+<br>
+
+<div class="abo">
+    <p> 
+    <strong> <ul> Web3 Advocacy & Project pomotion </strong> </ul>  </div>
+    Partners with up-and-coming blockchain projects, helping them gain traction through campaigns, community contests, and informational content
+    </p>
+
+    <br>
+
+<div class="abo">
+    <p>
+
+        <strong> <ul>  CFD & crypto Trading </strong> </ul>  </div>
+       A technically proficient trader, <br> i engage in CFD and spot/futures trading, with a focus on high-volatility assets and emerging tokens. <br>
+       Trading content inclueds market analysis, trend predictions, and strategy breakdowns.
+       
+       
+       </p>
+
+    </div> 
+
+       <hr>
+
+       <h2> <u> Hard and Soft Competencies skills </u> </h2>
+   
+    
+
+<body>
+<div class="text-box">
+    <div class="title">
+
+        <h3> Soft skills </h3>                                             
+        <ul>
+        <li> Fast Response Rate </li>
+        <dd> Quick, efficient handliing of community queries  </dd>
+        <br>
+        
+        <li> Hyper Engaged Community Interaction </li>
+        <dd> Active empathetic member engagament </dd>
+        <br>
+        
+        <li> Strategic Thinking for Web3 Growth </li>
+        <dd> Data driven and trend aware decison making </dd>
+        <br>
+        
+        <li> Consistent Resolution & Moderation </li>
+        <dd> Motivated and reliable presence in the community </dd>
+        <br>
+        
+        <li> Relationship Building </li>
+        <dd> Creating trust and loyalty among members </dd>
+        <br>
+        
+        <li> Adaptability </li>
+        <dd> Adjusting to fast moving trends and technologies </dd>
+        <br>
+        
+        </ul>
+
+
+
+    </div>
+    <div class="description"></div>
+   
+</div>
+
+<br>
+
+
+
+<div class="text-box">
+    <div class="title">
+
+        <h3> Hard skills </h3>
+        <ul>
+        
+        <li> Community Platform Managment </li>
+        <dd> Discord, Telegram, </dd>
+        <br>
+        
+        <li> Social Media Managment </li>
+        <dd> X/Twitter, Facebook, Instagram, Linkedln </dd>
+        <br>
+        
+        <li> Event Hosting & Moderation </li>
+        <dd> AMAs, X/Twitter Spacess, Google Workspace </dd>
+        <br>
+        
+        <li> Web3 Knowledge </li>
+        <dd> Blockchain fundamentals, NFT projects, Defi basics </dd>
+        <br>
+        
+        <li> Basic Web Development </li>
+        <dd> HTML/CSS (still in progress) </dd>
+        
+        </ul>           
+
+
+
+        
+
+    </div>
+    <div class="description"></div>
+   
+</div>
+
+
+
+
+
+
+
+<br>
+
+<style>
+    .text-box {
+        background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+        color: white;
+        padding: 20px;
+        border-radius: 10px; /* Rounded corners */
+        width: 500px; /* Adjust width as needed */
+        text-align: left;
+        margin: 0 auto; /* Centers the box */
+        font-family: Arial, sans-serif;
+    }
+    .title {
+        font-size: 1em;
+        margin-bottom: 10px;
+    }
+    .description {
+        font-size: 1em;
+        margin-bottom: 20px;
+    }
+    .button {
+        display: block;
+        margin: 10px auto;
+        padding: 10px 20px;
+        background-color: #333;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        width: 150px;
+    }
+</style>
+</head>
+
+
+
+
+
+
+
+</body>
+</html>
